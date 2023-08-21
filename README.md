@@ -26,7 +26,7 @@ A company in Indonesia aims to determine the effectiveness of an advertisement t
 4. **Check Missing Values**: Identifying and displaying missing values in different columns.
 5. **Convert Timestamp**: Converting the "Timestamp" column to a datetime data type.
 6. **Handle Missing Values**: Filling missing values in the "Daily Time Spent on Site" column based on the median of the respective age group.
-7. (Further steps may include data exploration, visualization, modeling, etc., but the code preview does not provide details beyond this point.)
+7. **Modelling**: Use Modelling in Confusion Matrix, and using Random Forest Classifier With and Without Normalization. 
 
 ### Interpretation
 - **Data Cleaning**: The analysis begins with essential data cleaning, including handling duplicates and missing values. This ensures the data quality needed for further analysis.
